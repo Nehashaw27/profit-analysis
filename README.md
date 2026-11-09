@@ -19,5 +19,6 @@ Project files
 - `reports/`: written analysis
 - `presentation/`: project slides
 - `screenshots/`: selected dashboard and Python result screenshots
+  
 Limitations
 This is a small dataset of 50 records. Results are exploratory and may not generalize to other startups.
